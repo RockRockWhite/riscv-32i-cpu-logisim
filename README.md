@@ -21,7 +21,8 @@ Look ma, I made a CPU! Here's what I did:
     - [x] U-type Instructions
     - [x] J-type Instructions
     - [x] CSR Instructions (not write to registers)
-- [x] 2-steps pipelined CPU (IF, EX)
+- [x] 2-steps pipelined CPU (IF, EX)  
+
 Finished all the riscv-i instructions! (except for the fence, the environment call and the csr instructions)
 
 ![instructions](./assets/instructions.png)
